@@ -134,5 +134,3 @@ Project documents can be accessed below:
 
 **Anindya Putri Defana**  
 Electrical Engineering Student — Universitas Indonesia
-
-```
